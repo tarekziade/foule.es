@@ -31,7 +31,7 @@ MENUITEMS = [('Accueil', '/')]
 STATIC_PAGES = {}
 THEME = "themes/tarek"
 
-DATE_FORMATS = {'fr': ('fr_FR','%a %d %b %Y'),
+DATE_FORMATS = {'fr': ('fr_FR.UTF-8','%a %d %b %Y'),
                 }
 DISQUS_SITENAME = "foulees"
 
@@ -43,4 +43,4 @@ PAGE_LANG_URL = '{slug}-{lang}.html'
 PDF_GENERATOR = False
 FEED_RSS = 'feed'
 TAG_FEED_RSS  = 'tag/%s/feed'
-
+LOCALE = 'fr_FR.UTF-8'
