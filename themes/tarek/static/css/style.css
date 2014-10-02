@@ -232,6 +232,7 @@ p.subtitle a{
         font-size:1.6em;
         line-height:1.8em;
         color:#666;
+        text-align:justify;
     }
     article #comments-form{
         border-top:1px solid #ddd;
