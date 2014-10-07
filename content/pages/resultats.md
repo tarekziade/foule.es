@@ -17,6 +17,26 @@ title: Résultats
 <td align="right">Classement</td>
 <td align="right">Plus de détails sur Smashrun</td>
 </tr>
+
+<tr>
+<td>02/11/14</td>
+<td align="center">La Chevignoise</td>
+<td align="right">10K</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+
+
+<tr>
+<td>26/10/14</td>
+<td align="center">Trail du Bouton d'Or</td>
+<td align="right">10K</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+
 <tr>
 <td>28/09/14</td>
 <td align="center">Les Foulées de la Norge</td>
