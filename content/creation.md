@@ -1,5 +1,5 @@
 Title: Création du Blog
-Date: 2014-10-01 22:20
+Date: 2014-10-01 21:20
 
 J'ai longuement hésité avant de créer ce blog, en me demandant si un espace entièrement
 dédié à la course à pied avait un quelconque intérêt dans l'océan des blogs qui

@@ -9,4 +9,5 @@ Title: A propos
 
 <img style="margin:0px auto 10px;max-width:100%;display:block" src="images/course.jpg"></img>
 
+Je fais parti de l'[ACR Dijon](http://acr.dijon.over-blog.com)
 
