@@ -16,7 +16,7 @@ entre chez moi et le centre de Dijon, soit un peu plus de 30km.
 Je ne suis pas passé par les bois, car la chasse est ouverte et même si c'est la
 chasse en plaine pour l'instant, on pouvait voir des chasseurs planqués dans les 
 fourrés pour tirer sur les faisans (d'élevage lachés 15 jours avant) qui avaient le malheur
-de passer pas loin. J'avaisi surpris 2 de ces oiseaux lors de ma dernière sortie longue.
+de passer pas loin. J'avais surpris 2 de ces oiseaux lors de ma dernière sortie longue.
 Un faisan sur un chemin de forêt, ca court drôlement vite.  :)
 
 Donc j'ai longé les routes jusqu'à Dijon, sur un parcours assez valonné :
@@ -41,7 +41,8 @@ et je suis sûr que le deuxième évènement sera plus carré là dessus.
 Ca reste une super initiative, et ça m'a permis de pousser un peu plus sur ma
 sortie longue ce dimanche.
 
-Du coup je vais verser directement 32 euros au secours pop.
+Du coup je viens de faire directement un don de 32 euros au secours populaire de 
+Côte d'Or. Si vous voulez en faire un c'est [ici](https://www.secourspopulaire.fr/21/don).
 
 
 Profil Smashrun: [http://smashrun.com/tarek/run/1530303](http://smashrun.com/tarek/run/1530303).
