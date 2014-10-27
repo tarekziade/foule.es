@@ -31,9 +31,9 @@ title: Résultats
 <td>26/10/14</td>
 <td align="center">Trail du Bouton d'Or</td>
 <td align="right">10K</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">44:32</td>
+<td align="right">9/314</td>
+<td align="right"><a href="http://smashrun.com/tarek/run/1566904">SmashRun</a></td>
 </tr>
 
 <tr>
