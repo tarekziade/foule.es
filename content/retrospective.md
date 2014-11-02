@@ -325,7 +325,7 @@ La bonne nouvelle c'est qu'il y a encore une petite marge de progression
 pour moi sur le 10k car si j'avais laissé filé le groupe au kilomètre 8
 j'aurais probablement pu prendre 30s.
 
-Dans tous les cas, finir le marathon sur un record est du pur bohneur.
+Dans tous les cas, finir le challenge sur un record est du pur bohneur.
 
 Je ne doublerais pas Mathieu au challenge, il était encore pas loin 
 derrière moi, mais ce résultat est une super récompense du travail
