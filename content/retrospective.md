@@ -290,8 +290,48 @@ bon enfant et motivant.
 
 ## La Chevignoise 
 
-XXX
+Ce matin j'ai terminé le challenge avec la Chevignoise, un 10k et 
+des poussières très roulant. Il y avait énormément de monde et une ambiance
+un peu électrique.
 
+Quelques coureurs se sont fait invité dans le sas elite, comme Chafik
+et Mathieu (il me semble).
+
+Tout le peloton de tête est parti comme une flèche, et c'était dur de ne 
+pas suivre la lancée. Du 1km au 8km j'ai maintenu une allure très soutenue, 
+entre 3mn25 et 3mn40 sans vraiment ralentir.
+
+J'ai dépassé Mathieu vers le kilomètre 4, qui courait avec la première 
+féminine - j'ai continué sur ma lancée pour coller et rester avec un petit
+groupe qui tournait à 3mn40.
+
+Au kilomètre 8, le coureur qui était juste derrière moi m'encourageait 
+à pousser pour coller avec les premiers du groupe qui commençaient
+à se détacher, et en forçant trop, j'ai explosé :)
+
+J'ai réussi à limiter la casse en descendant à 4mn/k pendant un kilomètre
+et j'ai pu accelérer à nouveau pour le dernier tronçon très rapide
+en dénivellé négatif jusque l'arrivé. 
+
+Au kilomètre 10, à quelques 200m de l'arrivé, je n'en croyais pas 
+mes yeux: moins de 37 minutes!
+
+J'ai fini la course avec un chrono de 37mn07 et pulvérisé mon record
+perso sur 10km.
+
+YES! 
+
+La bonne nouvelle c'est qu'il y a encore une petite marge de progression
+pour moi sur le 10k car si j'avais laissé filé le groupe au kilomètre 8
+j'aurais probablement pu prendre 30s.
+
+Dans tous les cas, finir le marathon sur un record est du pur bohneur.
+
+Je ne doublerais pas Mathieu au challenge, il était encore pas loin 
+derrière moi, mais ce résultat est une super récompense du travail
+que j'ai fourni pendant toute la saison.
+
+J'ai félicité Mathieu et Stéphane à l'arrivé et suis reparti bien content.
 
 ## Conclusion
 
