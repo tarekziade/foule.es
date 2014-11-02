@@ -340,6 +340,9 @@ Ce challenge était une bonne expérience pour apprendre
 il m'a permis d'apprendre à me projeter sur une saison entière de
 courses.
 
+Les précieux conseils de Dom, Mag, Bertrand(s), Benoît et quelques
+autres m'ont bien aidé à progresser - merci à eux.
+
 Par contre j'ai eu mon compte de 10K - et j'ai envie de changer de distance.
 
 Pour 2015 je vais tenter l'aventure du Marathon de Berlin, si j'arrive
