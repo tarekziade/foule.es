@@ -185,7 +185,7 @@ plus rapide que mon record personnel. C'était celui-ci ou
 celui en 38 minutes - autant être ambitieux ;)
 
 A ce stade du challenge, je suis passé 2eme devant Stéphane
-Cusey et derrière Mathieu Guillemont.
+Cusey et derrière Matthieu Guillemont.
 
 Les Foulées du Pont de Pierre se sont déroulées à Sennecey,
 c'est une double-boucle dans le village. Moyennement roulant,
@@ -199,7 +199,7 @@ tour car je me sentais en forme.
 Le parcours ne prêtait pas vraiment à une allure plus 
 soutenue.
 
-Je suis arrivé en 39mn26 10 secondes derrière Mathieu. 
+Je suis arrivé en 39mn26 10 secondes derrière Matthieu. 
 Le plan a vraiment payé, j'ai senti une nette progression dans 
 ma gestion  de fin de course et le plaisir de ne pas m'être 
 fait doubler par plein de coureurs sur les 3 dernièrs kilomètres 
@@ -227,7 +227,7 @@ aligné sur le départ des foulées Epleumiennes à Saint Apollinaire
 en pleine forme
 
 Et là, Ô bohneur, je suis arrivé 19eme, à plus d'une minute
-**devant** Mathieu en 39mn18, validant mon regain de forme
+**devant** Matthieu en 39mn18, validant mon regain de forme
 et une meilleure stratégie de course.
 
 ## Les Foulées de la Norge
@@ -248,7 +248,7 @@ vraiment pas loin de mon record sur 10K.
 Depuis début Septembre je suis sur une bonne progression,
 j'èspere qu'elle va durer!
 
-J'en profite pour réduire l'écart entre Mathieu et 
+J'en profite pour réduire l'écart entre Matthieu et 
 moi et creuser celui entre moi et Stéphane - mais
 les scores évoluent très peu et le podium du challenge
 est probablement déjà joué.
@@ -275,15 +275,15 @@ parcours roulant. J'ai fini très fort, emporté par un trailer
 qui fonçait dans les descentes.
 
 9eme de la course sur 314 avec un temps de 44mn32 - légèrement
-devant Mathieu (30 secondes peut-être). Là encore je gratte 
+devant Matthieu (30 secondes peut-être). Là encore je gratte 
 quelques miettes de points pour le challenge.  
 
-Mais à moins d'un problème sur la dernière course - Mathieu 
+Mais à moins d'un problème sur la dernière course - Matthieu 
 gagnera le challenge avec un peu moins de 10 points d'avance.
 On est à peu prêt au même niveau mais il a fait la différence
 en début de challenge quand j'étais dans mon creux.
 
-On s'est retrouvé juste après la course avec Mathieu et Stéphane
+On s'est retrouvé juste après la course avec Matthieu et Stéphane
 pour échanger nos impressions - ce challenge est vraiment
 bon enfant et motivant.
 
@@ -295,13 +295,13 @@ des poussières très roulant. Il y avait énormément de monde et une ambiance
 un peu électrique.
 
 Quelques coureurs se sont fait invité dans le sas elite, comme Chafik
-et Mathieu (il me semble).
+et Matthieu (il me semble).
 
 Tout le peloton de tête est parti comme une flèche, et c'était dur de ne 
 pas suivre la lancée. Du 1km au 8km j'ai maintenu une allure très soutenue, 
 entre 3mn25 et 3mn40 sans vraiment ralentir.
 
-J'ai dépassé Mathieu vers le kilomètre 4, qui courait avec la première 
+J'ai dépassé Matthieu vers le kilomètre 4, qui courait avec la première 
 féminine - j'ai continué sur ma lancée pour coller et rester avec un petit
 groupe qui tournait à 3mn40.
 
@@ -327,11 +327,11 @@ j'aurais probablement pu prendre 30s.
 
 Dans tous les cas, finir le challenge sur un record est du pur bohneur.
 
-Je ne doublerais pas Mathieu au challenge, il était encore pas loin 
+Je ne doublerais pas Matthieu au challenge, il était encore pas loin 
 derrière moi, mais ce résultat est une super récompense du travail
 que j'ai fourni pendant toute la saison.
 
-J'ai félicité Mathieu et Stéphane à l'arrivé et suis reparti bien content.
+J'ai félicité Matthieu et Stéphane à l'arrivé et suis reparti bien content.
 
 ## Conclusion
 
