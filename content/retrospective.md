@@ -1,6 +1,5 @@
 Title: Challenge de l'Etoile - Rétrospective
-Date: 2014-11-02 22:14
-Status: draft
+Date: 2014-11-02 20:40
 
 
 Le [Challenge de l'Etoile](http://www.everyoneweb.fr/challengeetoile21) est 
