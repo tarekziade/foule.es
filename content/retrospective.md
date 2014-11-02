@@ -185,7 +185,7 @@ plus rapide que mon record personnel. C'était celui-ci ou
 celui en 38 minutes - autant être ambitieux ;)
 
 A ce stade du challenge, je suis passé 2eme devant Stéphane
-Cusey et derrière Matthieu Guillemont.
+Cusey et derrière Mathieu Guillemont.
 
 Les Foulées du Pont de Pierre se sont déroulées à Sennecey,
 c'est une double-boucle dans le village. Moyennement roulant,
@@ -199,7 +199,7 @@ tour car je me sentais en forme.
 Le parcours ne prêtait pas vraiment à une allure plus 
 soutenue.
 
-Je suis arrivé en 39mn26 10 secondes derrière Matthieu. 
+Je suis arrivé en 39mn26 10 secondes derrière Mathieu. 
 Le plan a vraiment payé, j'ai senti une nette progression dans 
 ma gestion  de fin de course et le plaisir de ne pas m'être 
 fait doubler par plein de coureurs sur les 3 dernièrs kilomètres 
@@ -227,7 +227,7 @@ aligné sur le départ des foulées Epleumiennes à Saint Apollinaire
 en pleine forme
 
 Et là, Ô bohneur, je suis arrivé 19eme, à plus d'une minute
-**devant** Matthieu en 39mn18, validant mon regain de forme
+**devant** Mathieu en 39mn18, validant mon regain de forme
 et une meilleure stratégie de course.
 
 ## Les Foulées de la Norge
@@ -248,7 +248,7 @@ vraiment pas loin de mon record sur 10K.
 Depuis début Septembre je suis sur une bonne progression,
 j'èspere qu'elle va durer!
 
-J'en profite pour réduire l'écart entre Matthieu et 
+J'en profite pour réduire l'écart entre Mathieu et 
 moi et creuser celui entre moi et Stéphane - mais
 les scores évoluent très peu et le podium du challenge
 est probablement déjà joué.
@@ -349,7 +349,7 @@ Les courses que je pense faire en 2015 dans tous les cas:
 
 - Le trail du vieux Semur - qui a l'air vraiment sympa
 - le Semi de Nuit-Saint georges, avec une préparation sérieuse sur 8 semaines.
-- le 10KM de Chalon sur Saone, pour tenter de battre mon record de l'an dernier (37mn56)
+- le 10KM de Chalon et de Chevigny, pour tenter un chrono en dessous de 37mn.
 - des petits 5km ici et là lorsqu'ils se présenteront.
 
 Pour les autres, tout dépendra de l'obtention ou non d'un dossard à Berlin.
