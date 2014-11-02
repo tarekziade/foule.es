@@ -21,9 +21,9 @@ title: Résultats
 <td>02/11/14</td>
 <td align="center">La Chevignoise</td>
 <td align="right">10K</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">37:08</td>
+<td align="right">31/755</td>
+<td align="right"><a href="http://smashrun.com/tarek/run/1587916">SmashRun</a></td>
 </tr>
 
 

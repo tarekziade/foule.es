@@ -315,10 +315,10 @@ en dénivellé négatif jusque l'arrivé.
 Au kilomètre 10, à quelques 200m de l'arrivé, je n'en croyais pas 
 mes yeux: moins de 37 minutes!
 
-J'ai fini la course avec un chrono de 37mn07 et pulvérisé mon record
-perso sur 10km.
+J'ai fini la course avec un chrono de 37mn08 et pulvérisé mon record
+perso sur 10km (36mn50 sur la portion 10k d'après mon GPS)
 
-YES! 
+YES!
 
 La bonne nouvelle c'est qu'il y a encore une petite marge de progression
 pour moi sur le 10k car si j'avais laissé filé le groupe au kilomètre 8
@@ -351,7 +351,7 @@ Les courses que je pense faire en 2015 dans tous les cas:
 
 - Le trail du vieux Semur - qui a l'air vraiment sympa
 - le Semi de Nuit-Saint georges, avec une préparation sérieuse sur 8 semaines.
-- le 10KM de Chalon et de Chevigny, pour tenter un chrono en dessous de 37mn.
+- le 10KM de Chalon et de Chevigny, pour confirmer un chrono en dessous de 37mn.
 - des petits 5km ici et là lorsqu'ils se présenteront.
 
 Pour les autres, tout dépendra de l'obtention ou non d'un dossard à Berlin.
