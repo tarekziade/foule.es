@@ -14,13 +14,13 @@ forme d'injustice pour ceux qui ne pourront pas le faire.
 Peut-être qu'ils devraient mettre en place un système de sélection 
 prioritaire basé sur le nombre de participation et le pays de chaque athlète.
 Par exemple, un Canadien pour qui c'est le premier marathon aurait plus
-de chance d'être pris qu'un allemand qui en est à son 10ème marathon.
+de chance d'être pris qu'un Allemand qui en est à son 10ème marathon.
 Quoique.. ca avantage les plus aisés. Quelle casse tête..
 
 Bref, j'y vais ! Je croise maintenant les doigts pour que Vincent Lauvergne
 soit sélectionné aussi, histoire que l'on fasse cette aventure à deux.
 
-Début de l'entraînement pour le marathon le 6 juillet 2006. Au vu de mes 
+Début de l'entraînement pour le marathon le 6 juillet 2015. Au vu de mes 
 dernières perfs, je vise 3h. On verra en juillet si c'est réaliste.
 
 Si je descend en dessous de 3h10 en tous les cas, je serais qualifé
