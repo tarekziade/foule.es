@@ -23,7 +23,7 @@ soit sélectionné aussi, histoire que l'on fasse cette aventure à deux.
 Début de l'entraînement pour le marathon le 6 juillet 2015. Au vu de mes 
 dernières perfs, je vise 3h. On verra en juillet si c'est réaliste.
 
-Si je descend en dessous de 3h10 en tous les cas, je serais qualifé
+Si je descend en dessous de 3h10 en tous les cas, je serais qualifié
 pour Boston qui est le suivant sur ma liste. 
 
 [Tableau des temps qualificatifs de Boston](http://www.baa.org/races/boston-marathon/participant-information/qualifying/qualifying-standards.aspx)
