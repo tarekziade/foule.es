@@ -6,6 +6,9 @@ Le [Challenge de l'Etoile](http://www.everyoneweb.fr/challengeetoile21) est
 terminé. J'ai bouclé ces 9 courses en Côte d'Or avec une place sur le podium 
 - 2ème !
 
+![Podium](http://foule.es/coupe.jpg)
+
+
 C'est un des rares podium individuel à ma portée. Il est organisé depuis 2001 
 et est passé de 5 courses à 9 courses au fur et à mesure de son existence.
 
