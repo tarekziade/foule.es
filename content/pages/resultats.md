@@ -18,6 +18,15 @@ title: Résultats
 </tr>
 
 <tr>
+<td>07/12/14</td>
+<td align="center">Jingle Bell Run (Portland)</td>
+<td align="right">5K</td>
+<td align="right">18:23</td>
+<td align="right">12/394</td>
+<td align="right"><a href="http://smashrun.com/tarek/run/1691324">SmashRun</a></td>
+</tr>
+
+<tr>
 <td>02/11/14</td>
 <td align="center">La Chevignoise</td>
 <td align="right">10K</td>
