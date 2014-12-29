@@ -18,6 +18,15 @@ title: Résultats
 </tr>
 
 <tr>
+<td>27/12/14</td>
+<td align="center">Corrida des Lampions</td>
+<td align="right">8.4K</td>
+<td align="right">32:15 (-1:20)</td>
+<td align="right">19/173</td>
+<td align="right"><a href="http://smashrun.com/tarek/run/1742840">SmashRun</a></td>
+</tr>
+
+<tr>
 <td>07/12/14</td>
 <td align="center">Jingle Bell Run (Portland)</td>
 <td align="right">5K</td>
@@ -138,7 +147,11 @@ title: Résultats
 <p>
 Ce tableau est saisi manuellement. La colonne Stats pointe sur les statistiques SmashRun,
 en attendant que je développe les appels aux API de SmashRun pour afficher directement
-chaque profil de course ici
+chaque profil de course ici.
+
+Pour le chrono la valeure entre parenthèse représente la différence avec la même
+course courue l'année d'avant. Une différence négative représente donc 
+un meilleur chrono.
 </p>
 
 
