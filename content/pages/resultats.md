@@ -39,7 +39,7 @@ title: Résultats
 <td>02/11/14</td>
 <td align="center">La Chevignoise</td>
 <td align="right">10K</td>
-<td align="right">37:08</td>
+<td align="right"><strong>37:08</strong></td>
 <td align="right">31/755</td>
 <td align="right"><a href="http://smashrun.com/tarek/run/1587916">SmashRun</a></td>
 </tr>
@@ -122,7 +122,7 @@ title: Résultats
 <td>23/03/14</td>
 <td align="center">10KM de Chalon</td>
 <td align="right">10K</td>
-<td align="right"><strong>37:56</strong></td>
+<td align="right">37:56</td>
 <td align="right">78/457</td>
 <td align="right"><a href="http://smashrun.com/tarek/run/1253762">SmashRun</a></td>
 </tr>
@@ -152,6 +152,8 @@ chaque profil de course ici.
 Pour le chrono la valeure entre parenthèse représente la différence avec la même
 course courue l'année d'avant. Une différence négative représente donc 
 un meilleur chrono.
+
+Les chronos en gras représentent les records sur la distance.
 </p>
 
 
