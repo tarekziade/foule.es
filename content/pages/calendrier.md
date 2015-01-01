@@ -41,7 +41,7 @@ $(document).ready(function() {
     moment().format("Do MMM YY");
     $('#calendar').fullCalendar({
         header: {
-            left: 'prev,next today',
+            left: 'prev,next',
             center: 'title',
             right: 'month,agendaWeek'
         },
