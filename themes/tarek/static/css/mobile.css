@@ -16,6 +16,16 @@
     article h2.blog-title{font-size:3em;}
     ul.books li:first-child{margin-left:0;}
     ul.books li.last{margin-right: 0;}
+    aside.sidebar{
+      margin: 0 auto;
+      float: none;
+      text-align: center; 
+    }
+    #sidetitle, #sidetag, #sideflattr {
+      display: none
+    }
+
+
 }
 
 
