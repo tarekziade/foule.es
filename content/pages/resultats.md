@@ -2,7 +2,7 @@ title: Résultats
 
 <section class="content blog" style='text-align: justify'>
 <div class="constraint">
-<div class="posts">
+<div>
 <article>
 
 
