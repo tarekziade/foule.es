@@ -1,23 +1,53 @@
 <aside class="sidebar">
-<h3 class="published" title="{{ article.date.isoformat() }}">
+<h3 id="sidetitle" class="published" title="{{ article.date.isoformat() }}">
                {{ article.locale_date }}
 </h3>
 
 <p>
-<div class="tag">
+<div class="tag" id="sidetag">
   Publié dans <a href="{{ SITEURL }}/category/{{ article.category }}.html">{{
     article.category }}</a>
-  
-   
-    </div>
+</div>
 
 {% include 'taglist.html' %}
 {% include 'translations.html' %}
 
-<a href="http://flattr.com/thing/1717563/Fetchez-le-Python" target="_blank"><img
+<a id="sideflattr" href="http://flattr.com/thing/1717563/Fetchez-le-Python" target="_blank"><img
   src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this"
   title="Flattr this" border="0" style="margin-top: 10px"/></a>
 
 </p>
+
+
+<div id="alvarumWidgetOtEU_4fZid">
+  <p>Vous devez installer un Plugin Flash</p><p><a href="http://www.adobe.com/go/getflashplayer" target="_blank"><img src="http://www.alvarum.com/images/others/Get_Flash_Player.jpg"></a></p><p><a href="http://www.alvarum.com/tarekziade">Aller à la page de collecte</a></p>
+</div>
+<script type="text/javascript" src="https://www.alvarum.com/js/common/swfobject.js"></script>
+<script type="text/javascript">
+  var flashvars = {
+    dataUrl : "http://www.alvarum.com/tarekziade/feed/summary",
+    wording_currency : "€",
+    wording_raiseFundsFor : "collecte pour",
+    wording_sponsorMe : "Soutenez moi",
+    mainColor : "#f07c02",
+    buttonColor : "#f07c02"
+  };
+  var ID="alvarumWidgetOtEU_4fZid";
+  var swfUrl = "https://www.alvarum.com/static/shareWidget.swf";
+  var width = "160";
+  var height = "270";
+  var version = "8.0.0";
+  var expressInstallSwfurl = false;
+  var params = {
+    wmode : "transparent",
+    pluginspage : "http://www.adobe.com/go/getflashplayer",
+    quality : "high",
+    menu : "false",
+    AllowScriptAccess : "never"
+  };
+  var attributes = false;
+
+  swfobject.embedSWF(swfUrl, ID, width, height, version, expressInstallSwfurl, flashvars, params, attributes);
+</script>
 
 </aside><!-- /.post-info -->
