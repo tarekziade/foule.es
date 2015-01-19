@@ -18,6 +18,16 @@ title: Résultats
 </tr>
 
 <tr>
+<td>17/01/15</td>
+<td align="center">Trail du Vieux Semur</td>
+<td align="right">8.2K</td>
+<td align="right">39:33</td>
+<td align="right">18/317</td>
+<td align="right"><a href="http://smashrun.com/tarek/run/1841408">SmashRun</a></td>
+</tr>
+
+
+<tr>
 <td>27/12/14</td>
 <td align="center">Corrida des Lampions</td>
 <td align="right">8.4K</td>
