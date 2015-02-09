@@ -18,6 +18,25 @@ title: Résultats
 </tr>
 
 <tr>
+<td>22/03/15</td>
+<td align="center">10km de Chalon</td>
+<td align="right">10K</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+
+<tr>
+<td>15/03/15</td>
+<td align="center">Semi de Nuits-St-Georges</td>
+<td align="right">21.1K</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+
+
+<tr>
 <td>17/01/15</td>
 <td align="center">Trail du Vieux Semur</td>
 <td align="right">8.2K</td>
