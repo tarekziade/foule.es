@@ -1,6 +1,6 @@
 Title: Photo #1 - Rack de chaussures.
 Date: 2015-02-25 21:02
-
+Category: photo
 
 La course à pied est une source d'inspiration pour moi en terme de
 photographie. Il m'est arrivé plusieurs fois d'observer une scène de course ou

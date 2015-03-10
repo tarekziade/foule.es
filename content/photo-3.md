@@ -1,5 +1,6 @@
 Title: Photo #3 - Eoliennes
 Date: 2015-03-10 13:08
+Category: photo
 
 
 ![Rack](http://foule.es/fogrun.jpg)

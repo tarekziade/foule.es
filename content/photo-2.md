@@ -1,6 +1,6 @@
 Title: Photo #2 - Ravito
 Date: 2015-03-05 13:08
-
+Category: photo
 
 ![Rack](http://foule.es/ravito.jpg)
 
