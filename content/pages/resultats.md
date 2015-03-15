@@ -18,7 +18,7 @@ title: Résultats
 </tr>
 
 <tr>
-<td>22/03/15</td>
+<td>29/03/15</td>
 <td align="center">10km de Chalon</td>
 <td align="right">10K</td>
 <td align="right"></td>
@@ -30,9 +30,9 @@ title: Résultats
 <td>15/03/15</td>
 <td align="center">Semi de Nuits-St-Georges</td>
 <td align="right">21.1K</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">1:24:24 (-1:05)</td>
+<td align="right">41/1297</td>
+<td align="right"><a href="http://smashrun.com/tarek/run/2033558">SmashRun</a></td>
 </tr>
 
 
