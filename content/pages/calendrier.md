@@ -54,11 +54,6 @@ $(document).ready(function() {
             url: 'http://www.trailduvieuxsemur.com'
           },
           {
-            title: 'Transvaal Trail',
-            start: '2015-02-14',
-            url: 'http://www.stjodijon.com/transvaal-trail.html'
-          },
-          {
             title: 'Semi de Nuits',
             start: '2015-03-14',
             url: 'http://www.semi-nuits-st-georges.com'
@@ -67,6 +62,11 @@ $(document).ready(function() {
             title: '10k de Chalons',
             start: '2015-03-29',
             url: 'http://www.10kmdechalonsursaone.fr'
+          },
+          {
+            title: 'Trail des reculées',
+            start: '2015-04-12',
+            url: 'http://www.traildesreculees.fr'
           },
           {
             title: "10KM au fil de l'eau",

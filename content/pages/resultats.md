@@ -18,6 +18,15 @@ title: Résultats
 </tr>
 
 <tr>
+<td>12/04/15</td>
+<td align="center">Trail des reculées</td>
+<td align="right">19K</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+
+<tr>
 <td>29/03/15</td>
 <td align="center">10km de Chalon</td>
 <td align="right">10K</td>
