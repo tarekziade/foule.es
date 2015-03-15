@@ -30,7 +30,7 @@ title: Résultats
 <td>15/03/15</td>
 <td align="center">Semi de Nuits-St-Georges</td>
 <td align="right">21.1K</td>
-<td align="right">1:24:24 (-1:05)</td>
+<td align="right">1:24:24 (-1:05) <strong>RECORD</strong></td>
 <td align="right">41/1297</td>
 <td align="right"><a href="http://smashrun.com/tarek/run/2033558">SmashRun</a></td>
 </tr>
@@ -68,7 +68,7 @@ title: Résultats
 <td>02/11/14</td>
 <td align="center">La Chevignoise</td>
 <td align="right">10K</td>
-<td align="right"><strong>37:08</strong></td>
+<td align="right">37:08 <strong>RECORD</string></td>
 <td align="right">31/755</td>
 <td align="right"><a href="http://smashrun.com/tarek/run/1587916">SmashRun</a></td>
 </tr>
@@ -167,7 +167,7 @@ title: Résultats
 <td>02/02/14</td>
 <td align="center">Semi de San Francisco</td>
 <td align="right">Semi</td>
-<td align="right"><strong>1:24:39</strong></td>
+<td align="right">1:24:39</td>
 <td align="right">142/4538</td>
 <td align="right"><a href="http://smashrun.com/tarek/run/1253730">SmashRun</a></td>
 </tr>
