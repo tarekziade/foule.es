@@ -30,9 +30,9 @@ title: Résultats
 <td>29/03/15</td>
 <td align="center">10km de Chalon</td>
 <td align="right">10K</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">37:41 (-15s)</td>
+<td align="right">67/481</td>
+<td align="right"><a href="http://smashrun.com/tarek/run/2103011>SmashRun</a></td>
 </tr>
 
 <tr>
