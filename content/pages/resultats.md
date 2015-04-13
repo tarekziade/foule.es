@@ -20,10 +20,10 @@ title: Résultats
 <tr>
 <td>12/04/15</td>
 <td align="center">Trail des reculées</td>
-<td align="right">19K</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">20.5K</td>
+<td align="right">01:56:55</td>
+<td align="right">71/519</td>
+<td align="right"><a href="http://smashrun.com/tarek/run/2188789">SmashRun</a></td>
 </tr>
 
 <tr>
