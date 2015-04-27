@@ -22,7 +22,8 @@ title: Résultats
 <td align="center">Foulées du Vernois</td>
 <td align="right">5.25K</td>
 <td align="right">19:36</td>
-<td align="right">1/73</td>
+<td align="right"><img style="display:inline; padding:0; vertical-align: middle"
+                       src="http://foule.es/trophy.png"></img> 1/73</td>
 <td align="right"><a href="http://smashrun.com/tarek/run/2260217">SmashRun</a></td>
 </tr>
 
