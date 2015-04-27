@@ -18,6 +18,16 @@ title: Résultats
 </tr>
 
 <tr>
+<td>26/04/15</td>
+<td align="center">Foulées du Vernois</td>
+<td align="right">5.25K</td>
+<td align="right">19:36</td>
+<td align="right">1/73</td>
+<td align="right"><a href="http://smashrun.com/tarek/run/2260217">SmashRun</a></td>
+</tr>
+
+
+<tr>
 <td>12/04/15</td>
 <td align="center">Trail des reculées</td>
 <td align="right">20.5K</td>
