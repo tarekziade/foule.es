@@ -18,6 +18,17 @@ title: Résultats
 </tr>
 
 <tr>
+<td>10/05/15</td>
+<td align="center">Foulées des Cochons</td>
+<td align="right">6.4K</td>
+<td align="right">24:02</td>
+<td align="right"><img style="display:inline; padding:0; vertical-align: middle"
+                       src="http://foule.es/trophy.png"></img> 3/105</td>
+<td align="right"><a href="http://smashrun.com/tarek/run/2322448">SmashRun</a></td>
+</tr>
+
+
+<tr>
 <td>26/04/15</td>
 <td align="center">Foulées du Vernois</td>
 <td align="right">5.25K</td>
