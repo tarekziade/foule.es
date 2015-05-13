@@ -18,6 +18,26 @@ title: Résultats
 </tr>
 
 <tr>
+<td>30/05/15</td>
+<td align="center">UTCO - Trail des Vignes</td>
+<td align="right">30K</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+
+
+<tr>
+<td>16/05/15</td>
+<td align="center">Courir Ensemble</td>
+<td align="right">5K</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+</tr>
+
+
+<tr>
 <td>10/05/15</td>
 <td align="center">Foulées des Cochons</td>
 <td align="right">6.4K</td>
