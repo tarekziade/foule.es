@@ -21,9 +21,9 @@ title: Résultats
 <td>30/05/15</td>
 <td align="center">UTCO - Trail des Vignes</td>
 <td align="right">30K</td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"></td>
+<td align="right">2:33:57</td>
+<td align="right">22/339</td>
+<td align="right"><a href="http://smashrun.com/tarek/run/2407033">SmashRun</a></td>
 </tr>
 
 
