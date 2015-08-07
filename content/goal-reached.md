@@ -10,6 +10,7 @@ entourage, mes communautés, et de quelques sponsors "corporate".
 
 **[Makina Corpus](http://makina-corpus.com/)** est mon plus grand donateur 
 puisqu'ils ont donné le dernier (gros) coup de rein pour terminer la campagne.
+Ils ont d'ailleurs posté [un billet à ce propos](http://makina-corpus.com/blog/societe/2015/makina-corpus-sera-present-au-marathon-de-berlin).
 
 **[Exa Networks](http://www.exa.net.uk)** est le suivant, suivi par 
 **[Bearstech](http://bearstech.com/)**, 
