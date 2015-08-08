@@ -1,4 +1,4 @@
 foule.es
 ========
 
-Blog de Course
+Blog de Course à pied
