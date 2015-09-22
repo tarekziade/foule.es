@@ -1,5 +1,5 @@
 Title: Rétrospective entraînement Berlin
-Date: 2015-09-21 08:00
+Date: 2015-09-22 13:00
 
 Voilà, nous y sommes. Dans 5 jours je serais au départ du 42ème Marathon 
 de Berlin et je tenterais de passer la ligne d'arrivée 3 heures après.
@@ -177,10 +177,10 @@ A part cette séance là, la semaine s'est bien terminée avec une dernière sor
 longue de 2h15, ou je ne me suis pas amusé à aller plus loin ce coup-ci.
 
 
-14-27 sept: Relåchement
+14-27 sept: Relâchement
 =======================
 
-Je suis maintenant en relåchement. Le volume d'entraînement
+Je suis maintenant en relâchement. Le volume d'entraînement
 a drastiquement baissé et l'objectif est d'être bien reposé pour le jour J.
 
 Cette période de relâchement contient surtout du footing en endurance mais
