@@ -1,7 +1,7 @@
 Title: Oze Running Club
 Date: 2015-11-01 17:29
 
-Mon fils se mets à la course à pied et a envie de faire des compétitions ! 
+Mon fils se met à la course à pied et a envie de faire des compétitions ! 
 
 Je commence doucement à le coacher. Nous avons fait un peu de piste la semaine 
 dernière à Dijon.
