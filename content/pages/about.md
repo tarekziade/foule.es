@@ -10,5 +10,8 @@ Title: A propos
 <img style="margin:0px auto 10px;max-width:100%;display:block" src="images/course.jpg"></img>
 © <a href="http://niko-ngoisque.blogspot.fr">Nicolas Goisque</a>
 
-Je fais parti de l'[ACR Dijon](http://acr.dijon.over-blog.com)
+Je fais parti de l'[ACR Dijon](http://acr.dijon.over-blog.com) et de l'Oze Running Club.
+
+<img height="200" src="http://foule.es/theme/images/ocr-logo.jpg"></img>
+
 
