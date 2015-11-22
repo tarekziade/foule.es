@@ -42,12 +42,13 @@
                     <a href="{{ link }}">{{ title }}</a>
                 {% endfor %}
                 {% if DISPLAY_PAGES_ON_MENU %}
-                {% for page in PAGES %}
+                  {% for page in PAGES %}
                     <a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>
-                {% endfor %}
-				{% endif %}
-				<a href="https://www.strava.com/athletes/tarek-ziade">Activités</a>
-        <a id='rss' href="{{ SITEURL }}/{{ FEED_RSS }}"><img src="{{ SITEURL }}/theme/images/icons/rss.png"></img></a>
+                  {% endfor %}
+                {% endif %}
+                <a href="https://www.strava.com/athletes/tarek-ziade">Activités</a>
+                <a href="http://acr-dijon.org">Club ACR</a>
+               <a id='rss' href="{{ SITEURL }}/{{ FEED_RSS }}"><img src="{{ SITEURL }}/theme/images/icons/rss.png"></img></a>
 
            </div>
          </div>
