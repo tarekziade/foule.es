@@ -5,21 +5,19 @@
 <div class="constraint">
 <div class="posts">
 {% if articles %}
-    {% for article in articles_page.object_list %}        
-
-        {# First item #}
-		{% if loop.first and not articles_page.has_previous() %}
-
+    {% for article in articles_page.object_list %} 
+      {# First item #}
+      {% if loop.first and not articles_page.has_previous() %}
             <article>
                     <h1 class="blog-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1> 
 {{ article.content }}
 
 <p><a href="{{ SITEURL }}/{{ article.url }}#disqus_thread">Commentaires & Réactions</a></p>
                 </article>
-                {% if loop.length == 1 %}
+                {% if not loop.last %}
                     {% include 'pagination.html' %}
                 {% endif %}
-            {% if loop.length > 1 %}
+            {% if loop.last %}
                 <section id="content" class="body">
                     <h1>Articles précédents</h1>
                     <hr />
@@ -37,14 +35,15 @@
 						
         {% endif %}
         {% if loop.last and (articles_page.has_previous() 
-           or not articles_page.has_previous() and loop.length > 1) %}
+           or not articles_page.has_previous() and loop.last) %}
             {% include 'pagination.html' %}
         {% endif %}
-{% endfor %}
-    {% if loop.length > 1 or articles_page.has_previous() %}
+    {% if loop.last or articles_page.has_previous() %}
     </ol><!-- /#posts-list -->
     </section><!-- /#content -->
 	{% endif %}
+
+{% endfor %}
 </div>
 
     {% for article in articles_page.object_list %}        
