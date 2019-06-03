@@ -1,5 +1,5 @@
 Title: Formation Coach FFA 1er degré
-Date: 2019-06-03
+Date: 2019-06-02
 
 Je viens d'achever ma formation Coach FFA Hors Stade 1er Degré qui s'est déroulée
 sur plusieurs années avec les étapes suivantes:
