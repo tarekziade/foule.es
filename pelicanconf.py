@@ -27,14 +27,13 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-MENUITEMS = [('Accueil', '/')]
+MENUITEMS = []
 STATIC_PAGES = {}
 THEME = "themes/tarek"
 
 DATE_FORMATS = {'fr': ('fr_FR.UTF-8','%a %d %b %Y'),
                 }
-DISQUS_SITENAME = "foulees"
-
+DISQUS_SITENAME = False
 ARTICLE_SAVE_AS = ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 ARTICLE_LANG_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}-{lang}.html'
 PAGE_SAVE_AS = PAGE_URL = '{slug}.html'
