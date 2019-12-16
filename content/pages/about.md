@@ -13,6 +13,6 @@ Title: A propos
 Je suis coach FFA Hors Stade 1er et je fais parti de la Team Colombière,
 du <a href="https://www.vcpa.fr/">VCPA</a> et du <a href="http://dijonuc.athle.com/asp.net/espaces.html/html.aspx?id=17864">DUC Sombernon</a>.
 <br/>
-<img height="200" src="http://foule.es/theme/images/col-logo.jpg"></img>
+<img height="200" src="http://foule.es/theme/images/col-logo.png"></img>
 
 
