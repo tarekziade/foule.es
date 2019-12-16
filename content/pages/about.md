@@ -10,8 +10,9 @@ Title: A propos
 <img style="margin:0px auto 10px;max-width:100%;display:block" src="images/course.jpg"></img>
 © <a href="http://niko-ngoisque.blogspot.fr">Nicolas Goisque</a>
 
-Je fais parti de l'[ACR Dijon](http://acr-dijon.org) et de l'Oze Running Club.
-
-<img height="200" src="http://foule.es/theme/images/ocr-logo.jpg"></img>
+Je suis coach FFA Hors Stade 1er et je fais parti de la Team Colombière,
+du <a href="https://www.vcpa.fr/">VCPA</a> et du <a href="http://dijonuc.athle.com/asp.net/espaces.html/html.aspx?id=17864">DUC Sombernon</a>.
+<br/>
+<img height="200" src="http://foule.es/theme/images/col-logo.jpg"></img>
 
 
