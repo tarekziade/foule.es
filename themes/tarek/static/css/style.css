@@ -604,4 +604,16 @@ div.note p.admonition-title {
 .tableResults tr:first-child td:last-child{
 	border-width:0px 0px 1px 1px;
 }
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 150%;
+  margin-bottom: 10px;
+}
 
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
