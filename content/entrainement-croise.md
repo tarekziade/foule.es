@@ -1,10 +1,10 @@
 Title: Entraînement croisé - Partie 1
 Date: 2019-12-21 
 
-La deuxième partie [c'est par ici](https://foule.es/2019/12/21/entrainement-croise-partie-2.html)
+La deuxième partie [c'est par ici](https://foule.es/2019/12/23/entrainement-croise-partie-2.html)
 
 Les chocs repétés de la course à pied sur le corps sont bénéfiques pour la 
-densité osseusse et pour le renforcement musculaire, mais passé un certain
+densité osseuse et pour le renforcement musculaire, mais passé un certain
 volume d'entraînement, ils deviennent source de blessures.
 
 La fatigue, le manque d'hydratation, le stress, sont autant de facteurs qui

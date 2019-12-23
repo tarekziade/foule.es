@@ -21,7 +21,7 @@ Voici les types de séance utilisées dans le plan:
 - **SL** - Sortie Longue
 - **FI** - Fractionné Intensif
 - **FE** - Fractionné Extensif
-- **EFV** - Endurance Fondamentale Vélo
+- **EFV** - Endurance Fondamentale Vélo (Z2)
 - **FV** - Fractionné Vélo
 
 ![fractionne](/images/fractionne.png "Fractionné au Parc")
