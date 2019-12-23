@@ -165,5 +165,5 @@ prend progressivement le pas sur l'endurance en course
 |  Séance 4  |      | Echauffement + Course     | 10000M      |  1h    |
 |            |      |                           |     Total   |  4h10' |
 
-La partie 3 de cette série sera écrite au primtemps après mon 10,
+La partie 3 de cette série sera écrite au printemps après mon 10,
 pour faire un retour sur ce plan.
