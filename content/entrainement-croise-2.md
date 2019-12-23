@@ -91,7 +91,7 @@ avec du vélo.
 |  Séance 2  | EFV  | 1h                                     |             |  1h    |
 |  Séance 3  | FI/E | 2x(400/500/600/500/400) r=1’20” R=2’30 | 4800M       |  1h5'  |
 |  Séance 4  | EF   | 45'                                    |             |  45'   |
-|  Séance 5  | FV   | 2x20’ @ 75% FTP r=10’                  |             |  3h    |
+|  Séance 5  | EFV  | 3h                                     |             |  3h    |
 |            |      |                                        |     Total   |  7h    |
 
 
