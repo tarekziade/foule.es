@@ -3,7 +3,7 @@ Date: 2019-12-27
 
 Le [CBD (Cannabidiol)](https://fr.wikipedia.org/wiki/Cannabidiol) est le
 nouveau complément alimentaire à la mode chez les sportifs. Il est extrait du
-Cannabis et ne fait pas planer comme sa molécule soeur, le THC. Cette molécule
+Cannabis et ne fait pas planer comme sa molécule sœur, le THC. Cette molécule
 n'est pas sur la liste des dopants, donc aucun problème à l'utiliser.
 
 ![cbd](/images/cbd.png "Cibdol 4%")
@@ -18,8 +18,8 @@ fabriqués à partir du **chanvre** et non du **chanvre indien**. Le chanvre est
 utilisé surtout pour fabriquer des textiles, et ne contient pas de THC. C'est 
 le cas des produits Cibdol.
 
-L'interêt du CBD pour les sportifs est son effet anti-inflammatoire et 
-relaxant. Pour résumer, on est censé récupèrer plus vite musculairement et 
+L'intérêt du CBD pour les sportifs est son effet anti-inflammatoire et 
+relaxant. Pour résumer, on est censé récupérer plus vite musculairement et 
 mieux dormir.
 
 Le produit le plus pratique est l'huile de CBD, avec un compte-goutte.
@@ -28,7 +28,7 @@ pour pouvoir mesurer l'impact: lorsque je suis un plan 10 ou semi,
 j'ai mal un peu partout quand j'atteins le pic du plan, et j'ai
 vraiment beaucoup de mal à encaisser la charge. Mon signal d'alerte
 est une inflammation de mes [muscles pelvi-trochantériens](https://fr.wikipedia.org/wiki/Muscles_pelvi-trochant%C3%A9riens) 
-du coté gauche et un deséquilibre croissant au niveau des appuis 
+du coté gauche et un déséquilibre croissant au niveau des appuis 
 droite/gauche. Pour le dire plus simplement, plus la séance est 
 longue, plus j'ai tendance à courir plus sur une jambe et plus
 j'ai mal à la fesse le lendemain.
@@ -44,7 +44,7 @@ immédiat. Au bout d'une semaine, je pouvais pousser un peu plus sans
 douleurs, je dormais un peu mieux et je n'avais plus cette sensation
 d'être un vieux papi lors de mes premiers pas chaque matin.
 
-Pour moi ca marche vraiment bien. Vu le prix exhorbitant du produit, 
+Pour moi ca marche vraiment bien. Vu le prix exorbitant du produit, 
 je fonctionne par cycles. Je n'en prends pas si je ne suis pas sur
 une phase intensive d'entraînement.
 
