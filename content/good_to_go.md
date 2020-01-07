@@ -1,5 +1,5 @@
 Title: Lecture: Good to Go de Christie Aschwanden
-Date: 2020-01-07
+Date: 2020-01-07 08:00
 
 Si vous lisez l'anglais et vous vous intéressez à la récupération sportive, je
 recommande chaudement cet ouvrage
