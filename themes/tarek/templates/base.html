@@ -32,12 +32,19 @@
 
 <body id="index" class="home">
   <header id="header">
+
      <div class="constraint">
+
        <div class="o">
+       <div style="float:left">
+  <img src="/theme/images/red-team.png" height="120"></img>
+  <div>Altra Team Red</div>
+</div>
+
 
      <a href="/"><h1>Les Foulé<span class="red">.es</span></h1></a>
 
-     <div class="nav">
+    <div class="nav">
                 {% for title, link in MENUITEMS %}
                     <a href="{{ link }}">{{ title }}</a>
                 {% endfor %}
@@ -56,7 +63,7 @@
          </div>
          </div>
          </header><!-- /#banner -->
-
+         <div style="clear:both"></div>
         {% block content %}
         {% endblock %}
         <section id="extras" class="body">
