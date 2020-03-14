@@ -617,3 +617,16 @@ th, td {
 }
 
 tr:nth-child(even) {background-color: #f2f2f2;}
+
+div.tool {
+ vertical-align: middle;
+ min-height: 10em;
+ text-align: center;
+ font-size:20px; 
+ margin-top: 20px;
+}
+
+img.tool {
+  width: 100px;
+  vertical-align:middle;
+}
