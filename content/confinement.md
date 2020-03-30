@@ -78,6 +78,11 @@ futile, mais c'est une gratification qui vous fera un bien fou.
 Pour ma part, je voudrais essayer de monter le plus de dénivelé possible en 1h,
 peut-être atteindre le KV, car j'ai cette chance d'habiter à flanc de colline.
 
+![Olivier](/images/olivier.png "Olivier")
+
+[Olivier qui court un 5k dans son couloir :)](https://www.strava.com/activities/3234476916)
+
+
 Garder un lien avec la communauté
 =================================
 
