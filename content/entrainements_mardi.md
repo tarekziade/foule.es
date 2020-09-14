@@ -35,4 +35,8 @@ Une séance est organisée en quatre parties:
 - fractionné
 - retour au calme
 
+Si vous arrivez un peu en retard, pas de soucis! On démarre le footing en
+direction de Saint-Marie le long du canal sur la piste cyclable et on retourne
+à proximité de l'écluse pour commencer la séance. 
+
 Contact: Tarek ZIADE / tarek@ziade.org / 0630370263
