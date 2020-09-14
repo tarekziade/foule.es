@@ -30,13 +30,13 @@ Il n'y a aucun pré-requis de niveau, et le groupe reste ensemble pendant la sé
 
 Une séance est organisée en quatre parties:
 
-- échauffement
-- quelques échauffements dynamiques
+- footing de mise en route
+- échauffement dynamique des groupes musculaires
 - fractionné
 - retour au calme
 
 Si vous arrivez un peu en retard, pas de soucis! On démarre le footing en
-direction de Saint-Marie le long du canal sur la piste cyclable et on retourne
+direction de Sainte-Marie le long du canal sur la piste cyclable et on retourne
 à proximité de l'écluse pour commencer la séance. 
 
 Contact: Tarek ZIADE / tarek@ziade.org / 0630370263
